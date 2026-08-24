@@ -1,1 +1,1 @@
-echo "# Alexandre é beta"
+echo "# https://github.com/feriasgg19-dot/ex"
