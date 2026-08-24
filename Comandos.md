@@ -1,1 +1,3 @@
-echo "# Tabela de Comandos Básicos do GitComandoFunção PrincipalEstado do ArquivoO que ele realmente fazgit initInicializarNovo / Não rastreadoCria um repositório Git local vazio na pasta atual.git statusInspecionarDiagnósticoMostra o estado atual das alterações e arquivos não monitorados.git addPrepararStaging Area (Index)Adiciona as modificações ao pacote de preparação para o próximo envio.git commitGravarRepositório LocalSalva o pacote preparado na linha do tempo com uma mensagem descritiva.git pushEnviarRepositório RemotoTransfere todos os commits locais para o servidor nuvem (ex: GitHub)."
+echo "# adicione a explicação dos comandos de
+branch e merge (branch, checkout/switch e merge).
+"
